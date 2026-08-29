@@ -1,0 +1,10 @@
+model,knowledge_percent,zero_shot_frame_break_percent,targeted_reasoning_frame_break_percent
+GPT-5.4,99.3,44.0,68.0
+Claude Sonnet 4,97.3,32.7,79.3
+Claude Opus 4,98.7,58.0,92.7
+Gemini 2.5 Pro,98.7,71.3,86.0
+DeepSeek V3.2,90.0,17.3,24.7
+Grok 4.20,94.7,8.7,16.0
+Mistral Nemo,88.7,4.7,3.3
+Qwen 3.5 27B,100.0,66.0,76.0
+Llama 4 Scout,92.7,2.0,2.0
